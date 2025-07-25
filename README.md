@@ -26,7 +26,7 @@ Gitee仓库只是为了在中国访问方便而设立的，主仓库是[Github t
 ### 陈润轩 ChenRunxuan:
 * P学哲学新体系
 
-### 闫晟泽 Yan Shengze:
+### 闫晟泽 YanShengze:
 * 基于米勒圆最大张伯定理对“高勒”问题的研究
 
 ### 葛峻岩 GeJunyan:
