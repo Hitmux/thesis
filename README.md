@@ -76,6 +76,9 @@ Gitee仓库只是为了在中国访问方便而设立的，主仓库是[Github t
 ### 汪泊洋 WangBoyang:
 * 普通信息学通论
 
+### 代龙生 DaiLongsheng:
+* Ck定理的跨学科证明
+
 ### 王天牧 WangTianmu:
 * G.L.定理
 
