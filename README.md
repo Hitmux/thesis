@@ -8,6 +8,8 @@
 
 本人能力有限，该仓库难免有错误之处，如有发现，请联系：***caokai674@gmail.com***
 
+Gitee仓库只是为了在中国访问方便而设立的，主仓库是[Github thesis](https://github.com/Hitmux/thesis)。如果条件允许，强烈建议访问Github仓库。
+
 想加入我们的请加入QQ群：829647454
 
 ### 姜雨泽 JiangYuze:
@@ -92,5 +94,4 @@
 * 普通电磁抽象学通论
 
 ### 陈宋 ChenSong:
-* K氏押韵法(KIASO’sInitial Rhyme Method) ————中文说唱一种新颖的押韵
-方法
+* K氏押韵法(KIASO’sInitial Rhyme Method) ————中文说唱一种新颖的押韵方法
